@@ -13,11 +13,11 @@
 				<string>https://apple.dns.nextdns.io/734541</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Chặn Thu Hồi Ko Chặn ADS </string>
+			<string>Chặn thu hồi không chặn quảng cáo </string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.734541.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
-			<string>Khơindvn</string>
+			<string>Vật Vờ Jailbreak</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -34,11 +34,11 @@
 				<string>https://apple.dns.nextdns.io/c6fd8f</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Chặn Thu Hồi Có Chặn ADS </string>
+			<string>Chặn thu hồi có chặn quảng cáo </string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.c6fd8f.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
-			<string>Khơindvn</string>
+			<string>Vật Vờ Jailbreak</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -48,19 +48,16 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>NextDNS By Khơindvn
+	<string>NextDNS By Vật Vờ Jailbreak
 
-- Lấy DNS sửa info đéo ghi nguồn Thì = 1 Con 🐶
-- Nhắc trước Làm ra được DNS thì cũng xoá được DNS :))
+- Chặn thu hồi, không chặn quảng cáo
+- Chặn thu hồi, chặn quảng cáo
 
-- Chặn Thu Hồi - Không Chặn Qc
-- Chặn Thu Hồi - Có Chặn Qc
-
-- Lưu ý Khi dùng DNS
-- Không dùng Vpn ❎
-- Không tắt Nguồn IPhone ❎</string>
+- Lưu ý khi dùng DNS
+- Không dùng VPN ❌
+- Không tắt iPhone ❌</string>
 	<key>PayloadDisplayName</key>
-	<string>NextDNS By Khơindvn</string>
+	<string>NextDNS By Vật Vờ Jailbreak</string>
 	<key>PayloadIdentifier</key>
 	<string>ultralow.dns.nextdns.io</string>
 	<key>PayloadScope</key>
