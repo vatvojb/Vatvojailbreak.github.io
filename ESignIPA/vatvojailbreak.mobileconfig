@@ -13,7 +13,7 @@
 				<string>https://apple.dns.nextdns.io/734541</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi không chặn quảng cáo </string>
+			<string>Chặn thu hồi, không chặn QC </string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.734541.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
@@ -34,7 +34,7 @@
 				<string>https://apple.dns.nextdns.io/c6fd8f</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi có chặn quảng cáo </string>
+			<string>Chặn thu hồi, có chặn QC </string>
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.c6fd8f.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
@@ -50,14 +50,14 @@
 	<key>PayloadDescription</key>
 	<string>NextDNS By Vật Vờ Jailbreak
 
-- Chặn thu hồi, không chặn quảng cáo
-- Chặn thu hồi, chặn quảng cáo
+- Chặn thu hồi, không chặn QC
+- Chặn thu hồi, có chặn QC
 
 - Lưu ý khi dùng DNS
 - Không dùng VPN ❌
 - Không tắt iPhone ❌</string>
 	<key>PayloadDisplayName</key>
-	<string>NextDNS By Vật Vờ Jailbreak</string>
+	<string>DNS bởi Vật Vờ Jailbreak</string>
 	<key>PayloadIdentifier</key>
 	<string>ultralow.dns.nextdns.io</string>
 	<key>PayloadScope</key>
