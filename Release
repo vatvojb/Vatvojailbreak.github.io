@@ -1,0 +1,8 @@
+Origin: Bùi Hùng Blog
+Label: Bùi Hùng Blog
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Kho lưu trữ các sản phẩm mình làm ra

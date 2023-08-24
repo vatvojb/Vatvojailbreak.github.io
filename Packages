@@ -1,0 +1,214 @@
+Package: com.hungmarvel.2x2folder
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/com.hungmarvel.2x2folder_0.1.4_iphoneos-arm.deb
+Size: 4208
+MD5sum: 26d1171cfb5802673963bb2c02671c64
+SHA1: 2e828476258790ed941bb593c901148c72756290
+SHA256: abe11234b941056fb288e8805094d810419c173f7669f88cdb051ae5d8465824
+SHA512: 260dcf4668f95ec620bdcce1670df0bff566f993f1b7c1d6445283b61fbd6e4478b86a4169cba297ef3c11ecd394c8cbe638e1bcf8a2d92ecbbc74c71d62482f
+Description: Tinh chỉnh giúp thu nhỏ số biểu tượng thư mục còn bốn.
+Name: 2x2Folder
+Author: DODGraphics
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.2x2folder
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/2x2folder.png
+
+Package: com.hungmarvel.amlich
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hungmarvel.amlich_0.1_iphoneos-arm.deb
+Size: 56036
+MD5sum: 9e00f4e61ce8f38b3a02684e1c6ef7fd
+SHA1: a6fa4467e1391a4fb73840a7ce947c502d5410de
+SHA256: fb6b0d364e339094b3473ecd624ba74114b6feb1eabd9bf8f67b6c7ee2a554be
+SHA512: 35194636616e12fc3b8187d9c7f3e481143f5d12ed1c30bbcd1849160a3e8745c7b23c6c541985bc58af80a72f0e6ddba97b3e5efbdaa7ca06b6debd9c057063
+Description: Thêm lịch âm dưới đồng hồ
+Name: Âm Lịch
+Author: fahlnbg
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.amlich
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Amlich.png
+
+Package: com.hungmarvel.appeditor
+Architecture: iphoneos-arm
+Version: 3.5.8-1
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000),com.hungmarvel.rocketbootstrap,ldid,com.hungmarvel.libnotifications
+Filename: ./debs/com.hungmarvel.appeditor_3.5.8-1_iphoneos-arm.deb
+Size: 3753754
+MD5sum: 81bf4fde4d949870bda26af566fa618e
+SHA1: 66cbd1d9551ed1437c60c91c29715b8533e812c6
+SHA256: 439cc986ba3487cf5b86d7a27c05dbef1a1b5e22fcb8730c199c7410f4485ada
+SHA512: 890c47af039ca2edf307fc482b4b55e4c29b2d1f134c5d056efcdeba105108fa221606eb03f3f2619f9cbbc613d34d5c20290c00f1b0679f7a38ddfa451df790
+Description: Một tinh chỉnh MobileSubstrate tuyệt vời!
+Name: AppEditor
+Author: CrazyMind90
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.appeditor
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Appeditor.png
+
+Package: com.hungmarvel.diary
+Architecture: iphoneos-arm
+Version: 1.0-508
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/com.hungmarvel.diary_1.0-508_iphoneos-arm.deb
+Size: 3390808
+MD5sum: 178ad6b27e479cca3e4a7786bbbd5ceb
+SHA1: c187f509dc65c443f7b895497a395f7e280a8947
+SHA256: 0327c1c46d23e5b65cb53edd4204acd4d9ec883fa7f95ae555b03d46b03432bc
+SHA512: e53cf03ff45c8a7f93b978b13402b751461615113ba834bf0b78b8d891eef7457162703226191f7cd1992e0a9b40879a79fd5ab9a9e2e9f6a18cd3ad303f3098
+Description: Hiển thị Màn hình khoá theo kiểu Windows 10 cho iOS.
+Name: Diary
+Author: Litten
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.diary
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Diary.png
+
+Package: com.hungmarvel.libhdev
+Architecture: iphoneos-arm
+Version: 4.8.1
+Section: Hệ thống
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debs/com.hungmarvel.libhdev_4.8.1_iphoneos-arm.deb
+Size: 76754
+MD5sum: d2b70ea6c8e259d710bb4a2a99efc4e5
+SHA1: 7361891593117a5b4f402c6c3385ba74996d5037
+SHA256: 7fa45a105f42afbe08dd9c408bd94996fb78e31519e3cbe31cb841f9967af6f3
+SHA512: d8fde69243a40ba8c4188d0e4b07bbc3aa7c6b8779af013c77f1110bcfe838f4c601f54ab8c5b5309a6578e8f874372e2c784faacbca17d990f654b83d9ba71e
+Description: Đây là thư viện dành cho nhà phát triển để có các tùy chọn tốt hơn và các tiện ích hữu ích.
+Name: libhdev
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.libhdev
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
+Author: Hùng Marvel🕷
+
+Package: com.hungmarvel.tiktokgod
+Architecture: iphoneos-arm
+Version: 2.1.0
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, preferenceloader, com.hungmarvel.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.hungmarvel.tiktokgod_2.1.0_iphoneos-arm.deb
+Size: 61498
+MD5sum: 864e31ac3403e4c97a31d88362dfe490
+SHA1: d6a1423886c9f8d1eb70e452422b2340f25824d5
+SHA256: 6a59938236b1fb854f5328d5d81e28cf6c660aef58427044db46a1bd555b269f
+SHA512: ca953a25be63ec81bfdb081bc272cf33290c8af1fa259019de6d3ebd56a0373581245aa737d03ed2051b5b1876bdd2a42058488df337c88a336f838b4aeb26ca
+Description: Cho phép tải video không có logo và video không được phép tải
+Name: TikTok God
+Author: Hao Nguyen
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.tiktokgod
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Tiktok.png
+
+Package: com.hungmarvel.libnotifications
+Architecture: iphoneos-arm
+Version: 0.3-5
+Section: Hệ thống
+Maintainer: Hùng Marvel🕷
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.hungmarvel.libnotifications_0.3-5_iphoneos-arm.deb
+Size: 162718
+MD5sum: a38a22e48a199e24e14ceef6f936ec25
+SHA1: 1081a9081acc18cd59448f990667b63e97a667fc
+SHA256: e4d7187c77d6a101bc9b63786f1510f6f2a097195c64b7f80cda819ba554d3d8
+SHA512: faac176ad1730bdf7d2319177ca3d545a38e3940560db5ca53142d7217d6bc89b09c2e4bb60cb8e672e43fb3196df86e0255d34d1496beed66851bbc11cf6ca3
+Description: Thư viện thông báo ứng dụng.
+Name: libnotifications
+Author: Hùng Marvel🕷
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.libnotificattions
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
+
+Package: com.hungmarvel.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~release
+Section: Tiện ích
+Maintainer: Hùng Marvel🕷
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.hungmarvel.reprovision_0.8.3~release_iphoneos-arm.deb
+Size: 16789128
+MD5sum: 1e2c1436f90c0dcdf8066e8e8ea672d3
+SHA1: 84d58f2be75162eb38dea251a5377226531b4a2d
+SHA256: 44657b56ed0939b4275e51cbedd209d4ef6613f11c674334715a54db9c020ab9
+SHA512: 9ba94a3458353b22496b33d4ed4e6adb399718cf7d9be4aeb9f19b4140abbe478cd6bf95c2651476f385663b9d19a6cea7e920342407aedd4328e4b71b5b0afa
+Description: Gia hạn chứng chỉ app thứ ba.
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.reprovision
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Reprovision.png
+
+Package: com.hungmarvel.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta1
+Section: Hệ thống
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.hungmarvel.rocketbootstrap_1.0.10~beta1_iphoneos-arm.deb
+Size: 68626
+MD5sum: f92634ea9d3740ae961178357fe63025
+SHA1: daad6edf2e4bd51c6e3d51d4442e68602eb313fb
+SHA256: b054eba7f4c93ebfa662b890938d3b7f59cd466d1e3e068d5bc99725cbcb0dd8
+SHA512: 7dccfcfe4f593bc12983ff28dfc3ab9b314c2a176dd6bfe04002cf2cca5bbc9aa35bea9dbc5681b254f464cb7cfdb218200e8adb2a0f4c95b0b3a36ce7d227ce
+Description: Hỗ trợ thư viện cho phép các chỉnh sửa hoạt động.
+Name: rocketbootstrap
+Author: Hùng Marvel🕷
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.rocketbootstrap
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
+
+Package: com.hungmarvel.fontgooglesans10012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Phông chữ
+Maintainer: Hùng Marvel🕷
+Filename: ./debs/com.hungmarvel.fontgooglesans10012_1.0_iphoneos-arm.deb
+Size: 9702406
+MD5sum: c8727fa2011cbd81927d81e99ec996ab
+SHA1: 950c7c0ce5929c8526a7001010df26919dc0706f
+SHA256: 7e812f8f80cf9c60945db4c1de340b86e1db3ab6163f76d7fe48be65ac881640
+SHA512: 6c3ed40ed9e655812f70863eed66c2a21191d650af7585ab1b6eba585d722383f33b3c619c5af58f549c7c85f17bc7e13a762eb681df890d572452260c889208
+Description: Phông chữ có kích thước là 100%.
+Name: Google Sans 100%
+Author: Alex (@alexman1979)
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans10012
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font.png
+
+Package: com.hungmarvel.fontgooglesans8512
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Phông chữ
+Maintainer: Hùng Marvel🕷
+Filename: ./debs/com.hungmarvel.fontgooglesans8512_1.0_iphoneos-arm.deb
+Size: 10258290
+MD5sum: a6284a88f089a9f2326144a0aaf6d119
+SHA1: 4c97f2b6ba00c53b25c5e3c5043c352dc0cec07b
+SHA256: 59dbd18f492987c5209fae9bcd55ad4e61551a4decc7dbe846934d4adbd4b1e3
+SHA512: 72022ff5e4eb87375da3eab7eeaf68135203d0a33a6405313925858b523f819979cad95b4444bda5fb605d5f77c65687f896dd687ad7b1611ac067de37ef4bab
+Description: Phông chữ có kích thước là 85%.
+Name: Google Sans 85%
+Author: Alex (@alexman1979)
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans8512
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font.png
+
+Package: com.hungmarvel.a-font
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.hungmarvel.a-font_1.5.1_iphoneos-arm.deb
+Size: 834440
+MD5sum: f551ca0a392249f51742813e6cfbd356
+SHA1: c4da96360a31672c42698512f0d93cdcff17cf5f
+SHA256: b72413489993d13b5cdf94fddaa9eb3f5af2214ecfd6bfb6bb1510b6e978d7aa
+SHA512: 2f732b5fb2fccaf1e90f71071b09884126e371f0d36fea5e673038682372354a8c6ea8eba2c4be58ad37e76270f9e6c595baef82df893ecc313aa6b2718cc578
+Description: Thay đổi phông chữ trên thiết bị của bạn.
+Name: A-Font
+Author: Baw Appie
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans8512
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/A-font.png
+
