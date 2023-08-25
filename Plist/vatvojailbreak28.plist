@@ -11,27 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ESign-khoindvn/ESign-Khoindvn.github.io/raw/main/ESignIPA/ESign-Shanghai.ipa</string>
+					<string>https://github.com/vatvojb/vatvojailbreak.github.io/raw/main/ESignIPA/ESign_iPhone%20Distribution%3A%20CHINA%20UNIONPAY%20MERCHANT%20SERVICES%20CO.%2CLTD.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/my-khoindvn/my-khoindvn.github.io/main/khoindvn.png</string>
+					<string>https://raw.githubusercontent.com/vatvojb/vatvojailbreak.github.io/main/logo/vatvojailbreak.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/my-khoindvn/my-khoindvn.github.io/main/khoindvn.png</string>
+					<string>Vật Vờ Jailbreak</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>p3.xyz.yyyue.esign-Shanghai</string>
+				<string>p3.xyz.yyyue.esign-Vật Vờ Jailbreak 28</string>
 				<key>bundle-version</key>
-				<string></string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
