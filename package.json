@@ -2,7 +2,7 @@
   "devDependencies": {
     "tailwindcss": "^3.0.24"
   },
-  "name": "quanghungfoto.github.io",
+  "name": "vatvojailbreak.github.io",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "dependencies": {
