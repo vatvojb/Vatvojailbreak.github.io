@@ -1,0 +1,163 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://hungmarvel.github.io/sileo/assets/header_fallback.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#649189",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Phần mô tả",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\">Tinh chỉnh này sẽ giúp người dùng tải video từ TikTok một cách rất dễ ràng.</p>\n<p style=\"font-size:10pt;\">Sau khi người dùng cài xong có thể tinh chỉnh theo nhu cầu của mình, lưu ý chỉ hoạt động trên TikTok Việt Nam.</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Ảnh chụp màn hình",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{360, 640}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.evynw.ew1msgbubbles/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.evynw.ew1msgbubbles/ss2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hỗ trợ phiên bản",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Hao Nguyen",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.1.0",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS12.0 - 14.8",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://twitter.com/hungmarvel2110",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi tôi trên Twitter (@hungmarvel2110)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:hungquangbui.ads@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Báo lỗi qua email"
+        },
+        {
+          "action": "https://paypal.me/hungbg201",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi cốc 🍺 qua PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://hungmarvel.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử phiên bản",
+      "tintColor": "#649189",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>•Cải tiến sửa một số lỗi nhỏ</li>\n<li>•Sửa lỗi chuyển vùng quốc gia</li>\n<li>•Tinh chỉnh lại icon cũ</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>•Lỗi không chuyển được vùng quốc gia</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#649189"
+}

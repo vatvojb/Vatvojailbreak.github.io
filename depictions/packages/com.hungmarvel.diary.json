@@ -1,0 +1,25 @@
+{
+  "name": "Diary",
+  "package": "com.hungmarvel.diary",
+  "author": "Litten",
+  "version": "1.0-508",
+  "dependency": "Việt Nam",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.8+",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Hiển thị Màn hình khoá theo kiểu Windows 10 cho iOS.<br><br>Nó hoàn chỉnh với thông tin đăng nhập kiểu Windows 10, các biểu tượng màn hình khoá kiểu Windows 10 và hơn thế nữa. Tweak có rất nhiều tuỳ chỉnh và bạn có thể tự do làm chủ màn hình khoá kiểu Windows 10 của bạn.<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "1.0-508": [
+      "Tinh chỉnh này giúp người thêm con mắt ảo ngoài màn hình khoá",
+            "Tạo cảm giác cho người dùng là chiếc điện thoại đang chờ bạn để mở khoá"
+    ],
+    "1.0-508": [
+      "Đây là phiên bản mới nhất rồi!"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

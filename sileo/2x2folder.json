@@ -1,0 +1,163 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://hungmarvel.github.io/sileo/assets/2x2folder.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#649189",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Phần mô tả",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\">Tinh chỉnh này sẽ giúp người dùng đổi mới số icons hiển thị mặc định của thư mục thành bốn icons.</p>\n<p style=\"font-size:10pt;\">Sau khi cài giúp người dùng nhìn dõ app bên trong thư mục một cách dễ ràng hơn.</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Ảnh chụp màn hình",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{360, 640}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.2x2folder/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.2x2folder/ss2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hỗ trợ phiên bản",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "DODGraphics",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "0.1.4",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS5.0 - 14.8+",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://twitter.com/hungmarvel2110",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi tôi trên Twitter (@hungmarvel2110)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:hungquangbui.ads@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Báo lỗi qua email"
+        },
+        {
+          "action": "https://paypal.me/hungbg201",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi cốc 🍺 qua PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://hungmarvel.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử phiên bản",
+      "tintColor": "#649189",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.1.4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Tinh chỉnh này sẽ hiển thị bốn icons thay vì mặc định là chín</li>\n<li>Cải thiện cho người dùng nhìn dõ app ở thư mục hơn</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.1.4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đây là phiên bản mới nhất!</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#649189"
+}

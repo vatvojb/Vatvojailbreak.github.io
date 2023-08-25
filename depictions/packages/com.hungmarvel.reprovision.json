@@ -1,0 +1,25 @@
+{
+  "name": "ReProvision Reborn",
+  "package": "com.hungmarvel.reprovision",
+  "author": "Soh Satoh, Matt Clarke",
+  "version": "0.8.3~release",
+  "dependency": "Việt Nam",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "14.8+",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Việc cấp phép được thực hiện thông qua thông tin đăng nhập Apple ID của người dùng và hỗ trợ cả tài khoản phát triển trả phí và miễn phí. Các thông tin xác thực này được lưu trữ trong Chuỗi khóa của người dùng để sử dụng lại sau đó và chỉ được gửi đến API Kết nối iTunes của Apple để xác thực.<br><br>Tự động ký lại các ứng dụng được cấp phép cục bộ. Cài đặt cơ bản để định cấu hình cảnh báo được hiển thị bằng tính năng tự động ký lại. Khả năng cài đặt bất kỳ tệp .ipa nào được tải xuống qua Safari từ thiết bị. Hỗ trợ ký lại các ứng dụng Apple Watch. Menu 3D Touch để bắt đầu quy trình ký lại mới trực tiếp từ Màn hình chính.<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "0.8.3~release": [
+      "Gia hạn app thứ 3",
+            "Fix lỗi không gia hạn được"
+    ],
+    "0.8.3~release": [
+      "Đây là phiên bản mới nhất rồi!"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

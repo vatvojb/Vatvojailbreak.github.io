@@ -1,0 +1,25 @@
+{
+  "name": "AppEditor",
+  "package": "com.hungmarvel.appeditor",
+  "author": "CrazyMind90",
+  "version": "3.5.8-1",
+  "dependency": "Việt Nam",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.8+",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Chạm vào biểu tượng 2 lần trên màn hình khoá trong kiểu chế độ rung lắc.<br><br>Xoá thông báo số, đổi tên ứng dụng, chỉnh sửa thông báo số, sao chép BundleID, mở trong Filza [ứng dụng], mở trong Filza [dữ liệu], khởi chạy ứng dụng.<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "3.5.8-1": [
+      "Tinh chỉnh này giúp người dùng mở được các tiện ích và đường dẫn của app",
+            "Đây là một tinh chỉnh được cải tiến hơn đàn anh appdata, icontweak"
+    ],
+    "3.5.8-1": [
+      "Đây là phiên bản mới nhất rồi!"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

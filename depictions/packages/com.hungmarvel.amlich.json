@@ -1,0 +1,25 @@
+{
+  "name": "Âm Lịch",
+  "package": "com.hungmarvel.amlich",
+  "author": "fahlnbg",
+  "version": "0.1",
+  "dependency": "Việt Nam",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.8+",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Hiển thị ngày tháng bên dưới đồng hồ trên thanh StatusBar.<br><br>Đối với những thiết bị không phải iPX , Yêu cầu giả lập iPX để có thể sử dụng.<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "0.1": [
+      "Tinh chỉnh giúp xem được lịch âm trên thanh trạng thái",
+            "Sau khi cài lịch âm sẽ được hiển thị trên thanh trạng thái của người dùng"
+    ],
+    "0.1": [
+      "Đây là phiên bản mới nhất rồi!"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

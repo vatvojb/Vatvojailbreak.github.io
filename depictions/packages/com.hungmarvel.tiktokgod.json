@@ -1,0 +1,26 @@
+{
+  "name": "TikTok God",
+  "package": "com.hungmarvel.tiktokgod",
+  "author": "Hao Nguyen",
+  "version": "2.1.0",
+  "dependency": "Việt Nam",
+  "minOSVersion": "12.0",
+  "maxOSVersion": "14.8",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Tinh chỉnh này sẽ giúp người dùng tải video từ TikTok một cách rất dễ ràng.<br><br>Sau khi người dùng cài xong có thể tinh chỉnh theo nhu cầu của mình, lưu ý chỉ hoạt động trên TikTok Việt Nam.<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "2.1.0": [
+      "•Cải tiến sửa một số lỗi nhỏ",
+            "•Sửa lỗi chuyển vùng quốc gia",
+            "•Tinh chỉnh lại icons cũ"
+    ],
+    "2.0.0": [
+      "•Lỗi không chuyển được vùng quốc gia"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}
