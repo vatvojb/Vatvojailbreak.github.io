@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/icon.png" alt="Vật Vờ Jailbreak width="320">
-  <h1>Chào mừng bạn đến với GitHub của chúng tôi</h1>
+  <h1>Chào mừng bạn đến với Vật Vờ Jailbreak</h1>
   <strong>Luôn chia sẻ những tài nguyên 🧏🏻</strong>
   <h6>Làm với ❤️ &nbsp;bởi nhà phát triển Vật Vờ Jailbreak</h6>
 </div>
